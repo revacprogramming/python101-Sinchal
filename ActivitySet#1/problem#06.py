@@ -10,6 +10,7 @@ while True:
         break
 
     # ...
+    elif(num>)
 
     print(num)
 
